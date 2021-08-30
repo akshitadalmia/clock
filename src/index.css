@@ -1,0 +1,22 @@
+body {
+    background-color: darkgray;
+}
+
+.A {
+    font-family : 'Press Start 2P', cursive;
+    word-spacing: 5px;
+}
+  
+.B {
+    font-family : 'Press Start 2P', cursive;
+}
+  
+.C {
+    font-family : 'Press Start 2P', cursive;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+    margin-top: 260px;
+}
